@@ -1,0 +1,27 @@
+C:\Users\M S I\Desktop\MyAdventureGame\obj\Debug\netcoreapp3.1\MyAdventureGame.csprojAssemblyReference.cache
+C:\Users\M S I\Desktop\MyAdventureGame\obj\Debug\netcoreapp3.1\MyAdventureGame.AssemblyInfoInputs.cache
+C:\Users\M S I\Desktop\MyAdventureGame\obj\Debug\netcoreapp3.1\MyAdventureGame.AssemblyInfo.cs
+C:\Users\M S I\Desktop\MyAdventureGame\obj\Debug\netcoreapp3.1\MyAdventureGame.csproj.CoreCompileInputs.cache
+C:\Users\M S I\Desktop\MyAdventureGame\bin\Debug\netcoreapp3.1\MyAdventureGame.exe
+C:\Users\M S I\Desktop\MyAdventureGame\bin\Debug\netcoreapp3.1\MyAdventureGame.deps.json
+C:\Users\M S I\Desktop\MyAdventureGame\bin\Debug\netcoreapp3.1\MyAdventureGame.runtimeconfig.json
+C:\Users\M S I\Desktop\MyAdventureGame\bin\Debug\netcoreapp3.1\MyAdventureGame.runtimeconfig.dev.json
+C:\Users\M S I\Desktop\MyAdventureGame\bin\Debug\netcoreapp3.1\MyAdventureGame.dll
+C:\Users\M S I\Desktop\MyAdventureGame\bin\Debug\netcoreapp3.1\MyAdventureGame.pdb
+C:\Users\M S I\Desktop\MyAdventureGame\obj\Debug\netcoreapp3.1\MyAdventureGame.dll
+C:\Users\M S I\Desktop\MyAdventureGame\obj\Debug\netcoreapp3.1\MyAdventureGame.pdb
+C:\Users\M S I\Desktop\MyAdventureGame\obj\Debug\netcoreapp3.1\MyAdventureGame.genruntimeconfig.cache
+D:\{coding}\Archive DasPro\MyAdventureGame\MyAdventureGame\bin\Debug\netcoreapp3.1\MyAdventureGame.exe
+D:\{coding}\Archive DasPro\MyAdventureGame\MyAdventureGame\bin\Debug\netcoreapp3.1\MyAdventureGame.deps.json
+D:\{coding}\Archive DasPro\MyAdventureGame\MyAdventureGame\bin\Debug\netcoreapp3.1\MyAdventureGame.runtimeconfig.json
+D:\{coding}\Archive DasPro\MyAdventureGame\MyAdventureGame\bin\Debug\netcoreapp3.1\MyAdventureGame.runtimeconfig.dev.json
+D:\{coding}\Archive DasPro\MyAdventureGame\MyAdventureGame\bin\Debug\netcoreapp3.1\MyAdventureGame.dll
+D:\{coding}\Archive DasPro\MyAdventureGame\MyAdventureGame\bin\Debug\netcoreapp3.1\MyAdventureGame.pdb
+D:\{coding}\Archive DasPro\MyAdventureGame\MyAdventureGame\obj\Debug\netcoreapp3.1\MyAdventureGame.csproj.AssemblyReference.cache
+D:\{coding}\Archive DasPro\MyAdventureGame\MyAdventureGame\obj\Debug\netcoreapp3.1\MyAdventureGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\{coding}\Archive DasPro\MyAdventureGame\MyAdventureGame\obj\Debug\netcoreapp3.1\MyAdventureGame.AssemblyInfoInputs.cache
+D:\{coding}\Archive DasPro\MyAdventureGame\MyAdventureGame\obj\Debug\netcoreapp3.1\MyAdventureGame.AssemblyInfo.cs
+D:\{coding}\Archive DasPro\MyAdventureGame\MyAdventureGame\obj\Debug\netcoreapp3.1\MyAdventureGame.csproj.CoreCompileInputs.cache
+D:\{coding}\Archive DasPro\MyAdventureGame\MyAdventureGame\obj\Debug\netcoreapp3.1\MyAdventureGame.dll
+D:\{coding}\Archive DasPro\MyAdventureGame\MyAdventureGame\obj\Debug\netcoreapp3.1\MyAdventureGame.pdb
+D:\{coding}\Archive DasPro\MyAdventureGame\MyAdventureGame\obj\Debug\netcoreapp3.1\MyAdventureGame.genruntimeconfig.cache
